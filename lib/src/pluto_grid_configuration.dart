@@ -1269,7 +1269,7 @@ class PlutoGridLocaleText {
     this.autoFitColumn = 'Auto Ajustar',
     this.hideColumn = 'Esconder coluna',
     this.setColumns = 'Definir colunas',
-    this.setFilter = 'Definir fitros',
+    this.setFilter = 'Definir filtros',
     this.resetFilter = 'Limpar filtros',
     // SetColumns popup
     this.setColumnsTitle = 'Título da coluna',
@@ -1308,8 +1308,8 @@ class PlutoGridLocaleText {
     this.freezeColumnToEnd = 'Inmovilizar al final',
     this.autoFitColumn = 'Autoajuste',
     this.hideColumn = 'Ocultar columna',
-    this.setColumns = 'Eligir columnas',
-    this.setFilter = 'Definir fitros',
+    this.setColumns = 'Elegir columnas',
+    this.setFilter = 'Definir filtros',
     this.resetFilter = 'Limpiar filtros',
     // SetColumns popup
     this.setColumnsTitle = 'Título de la columna',
